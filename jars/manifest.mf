@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.6.1
+Created-By: 1.4.2_03-b02 (Sun Microsystems Inc.)
+Specification-Title: "Incubator™" 
+Specification-Version: "0.1"
+Specification-Vendor: "S. Brett Sutton".
+Implementation-Title: "Incubator" 
+Implementation-Version: "01"
+Implementation-Vendor: "S. Brett Sutton"
+Main-Class: net.sf.Incubator.GenePool
+Class-Path: lib/joone-engine.jar
+
